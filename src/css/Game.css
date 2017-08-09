@@ -1,0 +1,16 @@
+.square {
+    border: 1px solid #e2e2e2;
+    overflow: hidden;
+    height: 120px;
+}
+
+.square img {
+    height: auto;
+    width: 100%;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.done img{
+    border: 2px solid green;
+}
